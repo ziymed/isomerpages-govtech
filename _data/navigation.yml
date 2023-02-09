@@ -4,25 +4,13 @@
 #        >:(            #
 #########################
 
-- title: Home
-  url: /
+- title: About Us
+  url: /about-us
   sub-links:
-  - title: Overview
-    url: /digital-government-transformation/
-  - title: Digital Government Blueprint
-    url: /digital-government-blueprint/
-  - title: Singapore Digital Government Journey
-    url: /singapore-digital-government-journey/
-  - title: International Partnerships
-    url: /international-partnerships/
-  - title: Products and Services
-    url: /products-and-services/
-  - title: Digital Standards and Guides
-    url: /digital-standards-and-guides/
-  - title: Get Involved
-    url: /get-involved/  
-- title: Who We Are
-  url: /who-we-are/our-role/
+  - title: Our People
+    url: /our-people/
+- title: Curriculum
+  url: /curriculum/
   sub-links:
   - title: Our Role
     url: /who-we-are/our-role/
